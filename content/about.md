@@ -1,19 +1,15 @@
 +++
 title = "About"
-date = "2014-04-09"
-aliases = ["about-us","about-hugo","contact"]
+date = "2020-03-12"
+aliases = ["about-me","contact"]
 [ author ]
-  name = "Hugo Authors"
+  name = "Shubham Gupta"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Hi! I'm Shubham Gupta. Through this blog, I aim to talk a little bit about my current work and potential topics I'm interested in learning. Some of my main projects are available here:
 
-It makes use of a variety of open source projects including:
+* https://github.com/goodhamgupta/snowplow-elixir-tracker
+* https://github.com/goodhamgupta/paper_reviews
+* https://github.com/goodhamgupta/dbda_python
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Learn more and contribute on [GitHub](https://github.com/goodhamgupta).
