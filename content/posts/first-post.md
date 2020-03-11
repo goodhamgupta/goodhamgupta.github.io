@@ -1,8 +1,13 @@
 ---
+author: "Shubham Gupta"
 title: "First Post"
-date: 2020-03-12T00:56:30+08:00
+date: 2020-03-11T00:56:30+08:00
 draft: true
 comments: false
 images:
 ---
 
+
+## Introduction
+
+Super excited to **finally** get my own blog. Hope to write out those long pending articles ASAP now. Stay tuned!
