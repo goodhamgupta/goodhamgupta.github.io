@@ -1,4 +1,4 @@
-baseURL = "https://goodhamgupta-blog.s3.ap-south-1.amazonaws.com"
+baseURL = "https://goodhamgupta-blog.s3.ap-south-1.amazonaws.com/"
 title   = "Shubham Gupta"
 
 DefaultContentLanguage = "en"
@@ -82,7 +82,7 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "goodhamgupta|blog"
+    logoText     = "cd ~/home/"
     logoHomeLink = "/index.html"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
