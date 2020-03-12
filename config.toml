@@ -1,4 +1,4 @@
-baseURL = "https://goodhamgupta.github.io"
+baseURL = "https://goodhamgupta-blog.s3.ap-south-1.amazonaws.com"
 title   = "Shubham Gupta"
 
 DefaultContentLanguage = "en"
@@ -50,7 +50,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Nice theme for homepages and blogs"
+  description = "Shubham Gupta's Blog"
   keywords = ""
   images = [""]
 
@@ -83,7 +83,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoText     = "goodhamgupta|blog"
-    logoHomeLink = "/"
+    logoHomeLink = "/index.html"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
@@ -112,18 +112,18 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "about/"
+    url        = "about/index.html"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "posts/"
+    url        = "posts/index.html"
 
 [deployment]
 
 [[deployment.targets]]
 # S3; see https://gocloud.dev/howto/blob/#s3
 # For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
-# URL = "s3://goodhamgupta-blog/?region=ap-south-1"
+URL = "s3://goodhamgupta-blog/?region=ap-south-1"
 
 [[deployment.matchers]]
 #  Cache static assets for 1 year.
