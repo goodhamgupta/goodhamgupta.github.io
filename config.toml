@@ -123,7 +123,7 @@ disableHugoGeneratorInject = false
 [[deployment.targets]]
 # S3; see https://gocloud.dev/howto/blob/#s3
 # For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
-URL = "s3://goodhamgupta-blog/?region=ap-south-1"
+# URL = "s3://goodhamgupta-blog/?region=ap-south-1"
 
 [[deployment.matchers]]
 #  Cache static assets for 1 year.
