@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Shubham Gupta</title>
+    <link>https://goodhamgupta.github.io/posts/</link>
+    <description>Recent content in Posts on Shubham Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 11 Mar 2020 00:56:30 +0800</lastBuildDate>
+    
+	<atom:link href="https://goodhamgupta.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://goodhamgupta.github.io/posts/2020/03/first-post/</link>
+      <pubDate>Wed, 11 Mar 2020 00:56:30 +0800</pubDate>
+      
+      <guid>https://goodhamgupta.github.io/posts/2020/03/first-post/</guid>
+      <description>Introduction Super excited to finally get my own blog. Hope to write out those long pending articles ASAP now. Stay tuned!</description>
+    </item>
+    
+  </channel>
+</rss>
