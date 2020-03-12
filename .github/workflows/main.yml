@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v1
 
       - name: Deploy the site
-        uses: benmatselby/hugo-deploy-gh-pages@master
+        uses: benmatselby/hugo-deploy-gh-pages@feature/hugo
         env:
           GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
           HUGO_VERSION: 0.57.2
