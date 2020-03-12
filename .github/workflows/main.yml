@@ -19,4 +19,3 @@ jobs:
           HUGO_VERSION: 0.57.2
           TARGET_REPO: goodhamgupta/goodhamgupta.github.io
           TOKEN: ${{ secrets.GH_AUTH_TOKEN }}
-          CNAME: goodhamgupta.github.io
